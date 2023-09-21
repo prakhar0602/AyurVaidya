@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492944600613",
+    "project_id": "ayurvaidya-c5bdb",
+    "storage_bucket": "ayurvaidya-c5bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492944600613:android:8daba25a592e392d4ed9cc",
+        "android_client_info": {
+          "package_name": "com.example.ayurvaidya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Bl9MZJFBUrA3VelrYfDcTHWhk9Oo1MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
